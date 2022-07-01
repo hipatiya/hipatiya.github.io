@@ -1,8 +1,7 @@
-telefon: '0216 709 70 39'
+phone: '0216 709 70 39'
 businessName: 'Hipatiya'
 address: |
-  123 Some Street
-  City, State 12345
+ Göztepe Mah. Dr. Fazıl Gökçe Ören sok. Çamlar apt. No:33 D:5 Kadıköy/İstanbul
 hours:
   - day: Monday
     open: 8:30am
