@@ -1,26 +1,4 @@
 phone: '0216 709 70 39'
 businessName: 'Hipatiya'
-address: |
- Göztepe Mah. Dr. Fazıl Gökçe Ören sok. Çamlar apt. No:33 D:5 Kadıköy/İstanbul
-hours:
-  - day: Monday
-    open: 8:30am
-    close: 5:00pm
-  - day: Tuesday
-    open: 8:30am
-    close: 5:00pm
-  - day: Wednesday
-    open: 8:30am
-    close: 5:00pm
-  - day: Thursday
-    open: 8:30am
-    close: 5:00pm
-  - day: Friday
-    open: 8:30am
-    close: 5:00pm
-  - day: Saturday
-    open: Closed
-    close:
-  - day: Sunday
-    open: Closed
-    close:
+address: 'Göztepe Mah. Dr. Fazıl Gökçe Ören sok. Çamlar apt. No:33 D:5 Kadıköy/İstanbul'
+e-sube: 'asdasdasd'
