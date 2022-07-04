@@ -22,7 +22,7 @@ theme = "hugo-hero-theme"
 
 [[menu.main]]
     name = "Hizmetlerimiz"
-    url = "/work/"
+    url = "/services/"
     weight = 2
 
 [[menu.main]]

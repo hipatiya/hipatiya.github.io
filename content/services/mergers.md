@@ -1,5 +1,5 @@
 ---
-title: 'Mergers'
+title: 'Dışk Kaynak Kullanımı'
 date: 2018-11-28T15:15:34+10:00
 icon: 'services/service-icon-4.png'
 featured: true
@@ -9,9 +9,7 @@ heroSubHeading: 'Thinking of acquiring another business? Let us guide you throug
 heroBackground: 'services/service2.jpg'
 ---
 
-Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum
-de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
-crimen habet Priamum nec.
+Hipatiya Yazılım Ve Danışmanlık olarak Backend ve frontend geliştiricileri dış kaynak olarak kiralama hizmetlerimiz bulunmaktadır.
 
 ## Ne verba patulosque numen vix libet
 
