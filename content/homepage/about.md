@@ -2,7 +2,7 @@
 title: 'Biz kimiz'
 weight: 1
 background: ''
-button: 'About Us'
+button: 'Hakkımızda'
 buttonLink: 'about'
 ---
 Hipatiya, kurumsal şirketlerin karmaşık iş süreçlerinin en iyi şekilde planlanması, operasyonel ihtiyaçların kısa sürede giderilmesi ve mevcut kaynaklarının optimum kullanımı için çözümler üretir.
