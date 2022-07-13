@@ -1,11 +1,11 @@
 ---
-title: 'Dışk Kaynak Kullanımı'
+title: 'Dış Kaynak Kullanımı'
 date: 2018-11-28T15:15:34+10:00
 icon: 'services/service-icon-4.png'
 featured: true
 draft: false
-heroHeading: 'Mergers & Acquisitions'
-heroSubHeading: 'Thinking of acquiring another business? Let us guide you through the process.'
+weight: 1
+heroHeading: 'Dış Kaynak Kullanımı'
 heroBackground: 'services/service2.jpg'
 ---
 
