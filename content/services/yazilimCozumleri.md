@@ -5,50 +5,20 @@ icon: 'services/service-icon-3.png'
 featured: true
 draft: false
 weight : 3
-heroHeading: 'Business Sales'
-heroSubHeading: 'We can help value your business and prepare it for sale.'
+heroHeading: 'Anahtar Teslim Çözümler'
 heroBackground: 'services/service1.jpg'
 ---
 
-Cyanee nec pedicis positi. Esse et diem forte quoque et ieiunia
-vixque dixit negari _ullis stamina_: trahit. Tanta rictus in mitia causa, Phoebo
-nisi mater acta serpens cacumen dapibus caeli umidus detegeret viri conlato
-cadet! [Ego](#natisque-tot-traiecta) vitis imagine stagna insidias redigentur
-petunt dempserat dixisse, pro raptae aut male?
+Hipatiya,kurumsal yapınızın gerektirdiği mimariyi ve iş akışlarını tanımlayarak, ihtiyaç duyduğunuz sistem ve uygulamaları kurumunuza değer katacak biçimde geliştirir. 
 
-- Dente reponere dixere referre excessitque seque
-- Tacui si cui inde haec ubi trepidas
-- Coniunx nulla aut
+Bütün hizmetlerinde marka ve platform bağımsız hareket eden Hipatiya, size özel en ideal çözümü sunabilmek için objektif hareket eder. **Java** ve **Nodejs** başta olmak üzere değişik platformlarda uygulama geliştirme ve farklı sistemlerdeki uygulamaların entegrasyonu ile ilgili her tür talep ve ihtiyaca yönelik uçtan uca çözüm sunar.
 
-## Geniti facinus praeruptam atris ab manus in
+- Müşteri gereksinimlerinin temini
+- Yazılım gereksinim analizi
+- Yazılım tasarımı
+- Yazılım kodlama
+- Yazılım testleri
+- Yazılım devreye alma
+- Yazılım eğitim ve destek
 
-Properas iubar, mercurio regalis caelo Cerberon tetigisset et pervia, maduere
-non _tangere_ tendens corpore sed. Sine genae ominibus cereris, pectebant tum
-[crudelia](#mutavit-lacertos), oscula. Veneris _rumpe tibi_ aliquis paenituisse;
-cum tanti pressus erat _ira magnumque videntem_; fit est misit nec. Est ea
-vacuum Eumelique futurae stringebat facti indicat Hesioneque candore parsque
-patiensque, Perrhaebum **illa**: querenti.
-
-1. Deum sibi poma lacuque fateor
-2. Nisi vultibus adspicio totosque gladios a novatrix
-3. Regna ducebat
-
-_Fuit_ eurus promissaque. Faciemque tibi pectore reditum disiecit iam sede
-**foret petebatur** atro, tibi fugienti deus abluit illa, **non**.
-
-## Vidit si probetne vertitur
-
-In violenta et tamen praeterea populos meorum. Nos carissime Fortuna tellus aevo
-vestigia summae? Ad laedere portentificisque in olentes conbibit animi ad
-iuvenum **inamabile** perosae, **hostis foedantem Rutulos**.
-
-1. Augusta exstinctus dempto repperit ut quati enim
-2. Quae illo sine fatorum
-3. Sub ut Hyadasque specus terraeque coniunx vix
-4. Voce addita est haec
-5. Stagnum pavido sanguine Priamo custodia sed
-
-Iste gente Orpheus sua nec studiosior _et urit certe_ relevare comites vestibus?
-Digredimur _conbibitur citius induruit_ manes pressique Nyctimenen ille comas
-ductae in. Terret solebat misit; gestu erit ora Iunonis sine manus tacuit, carpe
-motibus; opem baculum.
+Uçtan Uca destek verdiğimiz çözümlerde sürecin baştan sona içerisinde bulunmamız; kaliteli hizmet, maliyet ve projenin zamanında tamamlanması konularında avantaj sağlamaktadır.
